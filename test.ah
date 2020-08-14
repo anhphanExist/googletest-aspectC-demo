@@ -1,0 +1,17 @@
+#ifndef __TEST_AH__
+#define __TEST_AH__
+
+#include <iostream>
+
+aspect Test {
+//    advice execution("% ...::%(...)") : before() {
+//        std::cout << "Before " << JoinPoint::signature() << std::endl;
+//    }
+//
+//    advice execution("% ...::%(...)") : after() {
+//        std::cout << "After " << JoinPoint::signature() << std::endl;
+//    }
+
+};
+
+#endif

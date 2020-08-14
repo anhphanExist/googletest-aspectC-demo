@@ -1,0 +1,8 @@
+cmake-build-debug
+main
+main.o
+puma.config
+Tests/test
+Tests/test.acc
+Tests/test.o
+.idea
